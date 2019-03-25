@@ -26,7 +26,7 @@ https://nbviewer.jupyter.org/github/pjireland/WayneCoCourtData/blob/master/court
 
 1. Install Jupyter using Anaconda and conda following the instructions
 [here](https://jupyter.readthedocs.io/en/latest/install.html#id3).
-2. Install [PlotLy for Python](https://plot.ly/python/getting-started/)
+2. Install [PlotLy for Python](https://plot.ly/python/getting-started/).
 3. Clone this repository:
 
 ```
