@@ -59,6 +59,6 @@ jupyter notebook
 
 and select the `court_reports.ipynb` file.
 
-3. The Jupyter Notebook can be re-run as is, or it can be modified to generate new data as needed.
+4. The Jupyter Notebook can be re-run as is, or it can be modified to generate new data as needed.
 
 
