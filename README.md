@@ -43,9 +43,15 @@ bash get_court_reports.sh 2019
 ...
 ```
 
+2. Run the command below to parse the court calendars you've just downloaded:
+
+```
+python parse_calendars.py
+```
+
 The last comand should be the last year you'd like to include in the results.
 
-2. Run Jupyter Notebooks from within the cloned `WayneCoCourtData` repository:
+3. Run Jupyter Notebooks from within the cloned `WayneCoCourtData` repository:
 
 ```
 jupyter notebook
